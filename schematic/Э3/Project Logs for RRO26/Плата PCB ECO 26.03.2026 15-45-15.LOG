@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=Ý3 Member=X1
+Added Component: Designator=X?(Arduino Mega Pro)
+Add component (AddParameter): Name = "Name"; Value = "Arduino Mega Pro"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Arduino Mega Pro)
+Add component (AddParameter): Name = "Name"; Value = "Arduino Mega Pro"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Arduino Mega Pro)
+Add component (AddParameter): Name = "Name"; Value = "Arduino Mega Pro"; VariantName = "[No Variations]"
+Added Component: Designator=X?(Arduino Mega Pro)
+Add component (AddParameter): Name = "Name"; Value = "Arduino Mega Pro"; VariantName = "[No Variations]"
+Added Component: Designator=X?(CWF-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Contact_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "Contact_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "Contact_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-3M (CWF-3)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetX?_1 Pin=X?-1
+Added Pin To Net: NetName=NetX?_1 Pin=X?-38
+Added Net: Name=NetX?_1
+Added Pin To Net: NetName=NetX?_2 Pin=X?-2
+Added Pin To Net: NetName=NetX?_2 Pin=X?-39
+Added Net: Name=NetX?_2
+Added Member To Class: ClassName=Ý3 Member=Component X? Arduino Mega Pro
+Added Member To Class: ClassName=Ý3 Member=Component X? Arduino Mega Pro
+Added Member To Class: ClassName=Ý3 Member=Component X? Arduino Mega Pro
+Added Member To Class: ClassName=Ý3 Member=Component X? Arduino Mega Pro
+Added Member To Class: ClassName=Ý3 Member=Component X? DS1069-3M (CWF-3)

@@ -1,0 +1,6 @@
+Added Component: Designator=X?(CWF-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Contact_1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "Contact_2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "Contact_3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-3M (CWF-3)"; VariantName = "[No Variations]"
+Added Class: Name=Ý3

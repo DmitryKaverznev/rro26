@@ -1,0 +1,5 @@
+Added Component: Designator=X2(XT30)
+Add component (AddParameter): Name = "Contact_1"; Value = "Vbat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "XT30"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Ý3 Member=Component X2 XT30

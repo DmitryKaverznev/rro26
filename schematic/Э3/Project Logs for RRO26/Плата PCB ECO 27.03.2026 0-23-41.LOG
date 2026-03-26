@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=DD1-13
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Net: Name=GND
+Added Rule: Name=Schematic Supply Nets
