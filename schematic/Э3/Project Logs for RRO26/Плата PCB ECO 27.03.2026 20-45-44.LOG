@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=MOSI Pin=X8-1
+Removed Pin From Net: NetName=MISO Pin=X8-2
+Removed Pin From Net: NetName=+5B Pin=X8-3
+Removed Pin From Net: NetName=GND Pin=X8-4
+Removed Pin From Net: NetName=SCK Pin=X8-5
+Removed Pin From Net: NetName=CS Pin=X8-6
+Removed Member From Class: ClassName=Ý3_2 Member=C?
+Removed Member From Class: ClassName=Ý3_2 Member=X7
+Removed Member From Class: ClassName=Ý3_1 Member=X8
+Change Footprint: Footprint Not Found Arduino Mega Pro
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=X12 NewDesignator=X8
+Change Component Designator: OldDesignator=X13 NewDesignator=X9
+Added Pin To Net: NetName=MOSI Pin=X7-1
+Added Pin To Net: NetName=MISO Pin=X7-2
+Added Pin To Net: NetName=+5B Pin=X7-3
+Added Pin To Net: NetName=GND Pin=X7-4
+Added Pin To Net: NetName=SCK Pin=X7-5
+Added Pin To Net: NetName=CS Pin=X7-6
+Added Member To Class: ClassName=Ý3_2 Member=Component C2 100
+Added Member To Class: ClassName=Ý3_1 Member=Component X7 Logic Conventor

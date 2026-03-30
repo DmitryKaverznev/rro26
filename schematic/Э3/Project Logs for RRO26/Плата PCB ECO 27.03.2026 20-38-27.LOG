@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=Vbat Pin=X1-3
+Removed Pin From Net: NetName=Vbat Pin=X5-3
+Removed Pin From Net: NetName=ENC1B Pin=X6-1
+Removed Pin From Net: NetName=ENC2B Pin=X6-2
+Removed Pin From Net: NetName=Vbat Pin=X8-3
+Removed Pin From Net: NetName=Vbat Pin=X9-3
+Removed Pin From Net: NetName=GND Pin=X9-4
+Removed Pin From Net: NetName=ENC1D Pin=X10-1
+Removed Pin From Net: NetName=ENC2D Pin=X10-2
+Removed Pin From Net: NetName=+5B Pin=X10-3
+Removed Pin From Net: NetName=GND Pin=X10-4
+Removed Pin From Net: NetName=+5B Pin=X11-3
+Removed Pin From Net: NetName=GND Pin=X11-4
+Removed Member From Class: ClassName=Ý3_1 Member=X9
+Removed Member From Class: ClassName=Ý3_1 Member=X10
+Removed Member From Class: ClassName=Ý3_1 Member=X11
+Change Footprint: Footprint Not Found Arduino Mega Pro
+Change Component Footprint: Designator=X1 Old Footprint=CWF-4 New Footprint=MW-4M
+Change Component Footprint: Designator=X5 Old Footprint=CWF-4 New Footprint=MW-4M
+Change Component Comment : Designator=X1 Old Comment=DS1069-4M (CWF-4) New Comment=DS1066-04M (MW-4M)
+Change Component Comment : Designator=X5 Old Comment=DS1069-4M (CWF-4) New Comment=DS1066-04M (MW-4M)
+Change Comment: Unknown Component : X8
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CWF-4"; UniqueID = "\SWWYIGGY" ("\SWWYIGGY")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "ENC1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "ENC1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_3"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_4"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DS1066-04M (MW-4M)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5" ("X5"); Footprint = "CWF-4"; UniqueID = "\KUPGCRTT" ("\KUPGCRTT")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "ENC1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "ENC1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_3"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_4"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DS1066-04M (MW-4M)"; VariantName = "[No Variations]"
+Change component parameters: Component "X8" not found
+Added Component: Designator=C1(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0603JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=DA3(L298P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "L298"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=+5B Pin=DA3-6
+Added Pin To Net: NetName=GND Pin=DA3-10
+Added Pin To Net: NetName=GND Pin=DA3-11
+Added Pin To Net: NetName=GND Pin=DA3-20
+Added Pin To Net: NetName=ENC1B Pin=X1-1
+Added Pin To Net: NetName=ENC2B Pin=X1-2
+Added Pin To Net: NetName=+5B Pin=X1-3
+Added Pin To Net: NetName=+5B Pin=X5-3
+Added Pin To Net: NetName=ENC1D Pin=X6-1
+Added Pin To Net: NetName=ENC2D Pin=X6-2
+Add Pin To Net: Unknown Pin: Pin X7-7
+Add Pin To Net: Unknown Pin: Pin X7-8
+Add Pin To Net: Unknown Pin: Pin X7-9
+Add Pin To Net: Unknown Pin: Pin X7-10
+Add Pin To Net: Unknown Pin: Pin X7-11
+Add Pin To Net: Unknown Pin: Pin X7-12
+Add Pin To Net: Unknown Pin: Pin X8-1
+Add Pin To Net: Unknown Pin: Pin X8-2
+Add Pin To Net: Unknown Pin: Pin X8-3
+Add Pin To Net: Unknown Pin: Pin X8-5
+Add Pin To Net: Unknown Pin: Pin X8-6
+Change Net Name : Old Net Name=IN1B New Net Name=ENC1C
+Change Net Name : Old Net Name=IN2B New Net Name=ENC2C
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DA3-12
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=Ý3_2 Member=Component C1 100
+Added Member To Class: ClassName=Ý3_2 Member=Component DA3 L298
+Add Class Member: Failed to add class member : Component X7 Logic Conventor

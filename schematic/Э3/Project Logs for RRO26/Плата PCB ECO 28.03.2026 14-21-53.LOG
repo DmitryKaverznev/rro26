@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=VD1 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD2 NewDesignator=VD1
+Change Component Designator: OldDesignator=VD3 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD4 NewDesignator=VD2
+Change Component Designator: OldDesignator=VD5 NewDesignator=VD17
+Change Component Designator: OldDesignator=VD6 NewDesignator=VD3
+Change Component Designator: OldDesignator=VD7 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD8 NewDesignator=VD4
+Change Component Designator: OldDesignator=VD9 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD10 NewDesignator=VD18
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD19
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD5
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD6
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD7
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD8
+Change Component Designator: OldDesignator=VD19 NewDesignator=VD16
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X4 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X8
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X4
+Change Component Designator: OldDesignator=X8 NewDesignator=X6
+Add component: Footprint Not Found Arduino Mega Pro
+Add Pin To Net: Unknown Pin: Pin X2-73
+Add Pin To Net: Unknown Pin: Pin X2-74
+Add Pin To Net: Unknown Pin: Pin X2-75
+Add Pin To Net: Unknown Pin: Pin X2-76
+Added Net: Name=NetX2_71
+Add Class Member: Failed to add class member : Component X2 Arduino Mega Pro

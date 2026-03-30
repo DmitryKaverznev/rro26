@@ -1,0 +1,7 @@
+Added Component: Designator=L1(Buzzer)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Epcos TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HC-12085"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=Zumm Pin=L1-1
+Added Net: Name=Zumm
+Added Member To Class: ClassName=Ý3_1 Member=Component L1 HC-12085

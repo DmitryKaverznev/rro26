@@ -1,0 +1,33 @@
+Change Footprint: Footprint Not Found Arduino Mega Pro
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0603JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CC0603JRNPO9BN101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TKE"; Value = "NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50Â"; VariantName = "[No Variations]"
+Added Component: Designator=DA4(L298P)
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "L298"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5B Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=+5B Pin=C4-2
+Added Pin To Net: NetName=GND Pin=DA3-1
+Added Pin To Net: NetName=GND Pin=DA4-1
+Added Pin To Net: NetName=+5B Pin=DA4-6
+Added Pin To Net: NetName=GND Pin=DA4-10
+Added Pin To Net: NetName=GND Pin=DA4-11
+Added Pin To Net: NetName=+5B Pin=DA4-12
+Added Pin To Net: NetName=GND Pin=DA4-20
+Added Member To Class: ClassName=Ý3_2 Member=Component C1 100
+Added Member To Class: ClassName=Ý3_2 Member=Component C3 100
+Added Member To Class: ClassName=Ý3_2 Member=Component C4 100
+Added Member To Class: ClassName=Ý3_2 Member=Component DA4 L298
+Added Member To Class: ClassName=Ý3_2 Member=Component X8 XT30

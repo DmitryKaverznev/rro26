@@ -1,0 +1,10 @@
+Added Component: Designator=X3(CWF-4)
+Add component (AddParameter): Name = "Contact_1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_4"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-4M (CWF-4)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5B Pin=DD1-14
+Added Pin To Net: NetName=+5B Pin=X1-76
+Added Member To Class: ClassName=Ý3 Member=Component X3 DS1069-4M (CWF-4)
+Add Class Member: Failed to add class member : Component X4 DS1066-04M (MW-4M)

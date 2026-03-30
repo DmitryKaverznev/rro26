@@ -1,0 +1,4 @@
+Remove Pin=X1C-50 From Net=MISO
+Remove Pin=X1C-51 From Net=MOSI
+Remove Pin=X1D-52 From Net=SCK
+Remove Pin=X1D-53 From Net=CS

@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=+3B3 Pin=X3-3
+Removed Member From Class: ClassName=Э3_1 Member=X15
+Change Component Designator: OldDesignator=X2 NewDesignator=X4
+Change Component Designator: OldDesignator=X3 NewDesignator=X5
+Change Component Designator: OldDesignator=X5 NewDesignator=X7
+Change Component Designator: OldDesignator=X6 NewDesignator=X8
+Change Component Designator: OldDesignator=X7 NewDesignator=X9
+Change Component Designator: OldDesignator=X8 NewDesignator=X10
+Change Component Designator: OldDesignator=X9 NewDesignator=X11
+Change Component Designator: OldDesignator=X10 NewDesignator=X12
+Change Component Designator: OldDesignator=X11 NewDesignator=X13
+Change Component Designator: OldDesignator=X12 NewDesignator=X14
+Change Component Designator: OldDesignator=X13 NewDesignator=X15
+Change Component Designator: OldDesignator=X14 NewDesignator=X16
+Change Component Designator: OldDesignator=X15 NewDesignator=X17
+Added Component: Designator=X2(CWF-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Signal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-3M (CWF-3)"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CWF-3)
+Add component (AddParameter): Name = "Contact_1"; Value = "Signal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_3"; Value = "GND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-3M (CWF-3)"; VariantName = "[No Variations]"
+Add component: Footprint Not Found PLS-2
+Added Pin To Net: NetName=+5B Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X2-3
+Added Pin To Net: NetName=+5B Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-3
+Added Pin To Net: NetName=+5B Pin=X5-3
+Add Pin To Net: Unknown Pin: Pin X6-1
+Add Pin To Net: Unknown Pin: Pin X6-2
+Add Pin To Net: Unknown Pin: Pin X6-3
+Add Pin To Net: Unknown Pin: Pin X6-4
+Add Pin To Net: Unknown Pin: Pin X6-5
+Add Pin To Net: Unknown Pin: Pin X6-6
+Add Pin To Net: Unknown Pin: Pin X6-7
+Add Pin To Net: Unknown Pin: Pin X6-8
+Add Pin To Net: Unknown Pin: Pin X6-9
+Add Pin To Net: Unknown Pin: Pin X6-10
+Added Pin To Net: NetName=ServoA Pin=X2-1
+Added Net: Name=ServoA
+Added Pin To Net: NetName=ServoB Pin=X3-1
+Added Net: Name=ServoB
+Added Member To Class: ClassName=Э3_1 Member=Component R1 10к
+Added Member To Class: ClassName=Э3_1 Member=Component R2 1к
+Added Member To Class: ClassName=Э3_1 Member=Component R3 10к
+Added Member To Class: ClassName=Э3_1 Member=Component R4 10к
+Added Member To Class: ClassName=Э3_1 Member=Component VD18 Красный светодиод
+Added Member To Class: ClassName=Э3_1 Member=Component X2 DS1069-3M (CWF-3)
+Added Member To Class: ClassName=Э3_1 Member=Component X4 DS1069-4M (CWF-4)
+Added Member To Class: ClassName=Э3_1 Member=Component X7 Arduino Mega Pro
+Added Member To Class: ClassName=Э3_1 Member=Component X8 DS1069-6M (CWF-6)
+Added Member To Class: ClassName=Э3_1 Member=Component X9 DS1069-6M (CWF-6)
+Added Member To Class: ClassName=Э3_1 Member=Component X10 DS1069-6M (CWF-6)
+Added Member To Class: ClassName=Э3_1 Member=Component X13 DS1066-04M (MW-4M)

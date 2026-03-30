@@ -1,0 +1,9 @@
+Change Component Comment : Designator=DD1 Old Comment=ATmega32u4 New Comment=XIAO nRF52840
+Change component parameters: Designator = "DD1" ("DD1"); Footprint = "Seeed Studio XIAO nRF52840"; UniqueID = "\JPJEILJP" ("\JPJEILJP")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://wiki.seeedstudio.com/XIAO_BLE/#hardware-overview"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "XIAO nRF52840"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-73
+Added Pin To Net: NetName=GND Pin=X1-74
+Added Pin To Net: NetName=+5B Pin=X1-75
+Added Net: Name=+5B
+Added Rule: Name=Schematic Supply Nets_1

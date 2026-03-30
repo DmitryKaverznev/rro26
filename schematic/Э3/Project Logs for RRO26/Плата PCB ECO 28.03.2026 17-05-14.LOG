@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MOT1A Pin=DA1-7
+Removed Pin From Net: NetName=MOT2A Pin=DA1-9
+Removed Pin From Net: NetName=MOT1B Pin=DA2-7
+Removed Pin From Net: NetName=MOT2B Pin=DA2-9
+Removed Member From Class: ClassName=Ý3_1 Member=X15
+Removed Member From Class: ClassName=Ý3_1 Member=X16
+Add component: Footprint Not Found PLS-2
+Add Pin To Net: Unknown Pin: Pin X6-1
+Add Pin To Net: Unknown Pin: Pin X6-2
+Add Pin To Net: Unknown Pin: Pin X6-3
+Add Pin To Net: Unknown Pin: Pin X6-4
+Add Pin To Net: Unknown Pin: Pin X6-5
+Add Pin To Net: Unknown Pin: Pin X6-6
+Add Pin To Net: Unknown Pin: Pin X6-7
+Add Pin To Net: Unknown Pin: Pin X6-8
+Add Pin To Net: Unknown Pin: Pin X6-9
+Add Pin To Net: Unknown Pin: Pin X6-10
+Change Net Name : Old Net Name=Mot3A New Net Name=MotIn3A
+Change Net Name : Old Net Name=Mot3B New Net Name=MotIn3B
+Change Net Name : Old Net Name=Mot4A New Net Name=MotIn4A
+Change Net Name : Old Net Name=Mot4B New Net Name=MotIn4B
+Added Pin To Net: NetName=MotIn1A Pin=DA1-7
+Added Net: Name=MotIn1A
+Added Pin To Net: NetName=MotIn1B Pin=DA2-7
+Added Net: Name=MotIn1B
+Added Pin To Net: NetName=MotIn2A Pin=DA1-9
+Added Net: Name=MotIn2A
+Added Pin To Net: NetName=MotIn2B Pin=DA2-9
+Added Net: Name=MotIn2B
+Added Member To Class: ClassName=Ý3_1 Member=Component X2 DS1069-3M (CWF-3)
+Added Member To Class: ClassName=Ý3_1 Member=Component X3 DS1069-3M (CWF-3)
+Added Member To Class: ClassName=Ý3_1 Member=Component X5 DS1069-4M (CWF-4)
+Add Class Member: Failed to add class member : Component X6 BH2-10
+Added Member To Class: ClassName=Ý3_1 Member=Component X11 DS1069-6M (CWF-6)
+Added Member To Class: ClassName=Ý3_1 Member=Component X12 DS1066-02M (MW-2M)
+Added Member To Class: ClassName=Ý3_2 Member=Component X14 XT30

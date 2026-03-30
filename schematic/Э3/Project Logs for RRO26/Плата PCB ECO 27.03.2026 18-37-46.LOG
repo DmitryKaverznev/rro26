@@ -1,0 +1,37 @@
+Change Footprint: Footprint Not Found Arduino Mega Pro
+Added Component: Designator=DA1(mini360)
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4R7"; VariantName = "[No Variations]"
+Added Component: Designator=DA2(mini360)
+Add component (AddParameter): Name = "Manufacturer"; Value = "China"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "4R7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=Vbat Pin=DA1-2
+Added Pin To Net: NetName=+5B_Logic Pin=DA1-3
+Added Pin To Net: NetName=GND Pin=DA1-4
+Added Pin To Net: NetName=GND Pin=DA2-1
+Added Pin To Net: NetName=Vbat Pin=DA2-2
+Added Pin To Net: NetName=+5B Pin=DA2-3
+Added Pin To Net: NetName=GND Pin=DA2-4
+Add Pin To Net: Unknown Pin: Pin X4-71
+Add Pin To Net: Unknown Pin: Pin X4-72
+Add Pin To Net: Unknown Pin: Pin X4-73
+Add Pin To Net: Unknown Pin: Pin X4-74
+Add Pin To Net: Unknown Pin: Pin X4-75
+Add Pin To Net: Unknown Pin: Pin X4-76
+Add Pin To Net: Unknown Pin: Pin X11-1
+Add Pin To Net: Unknown Pin: Pin X11-2
+Add Pin To Net: Unknown Pin: Pin X11-3
+Add Pin To Net: Unknown Pin: Pin X11-4
+Add Pin To Net: Unknown Pin: Pin X11-5
+Add Pin To Net: Unknown Pin: Pin X11-6
+Add Pin To Net: Unknown Pin: Pin X14-7
+Add Pin To Net: Unknown Pin: Pin X14-8
+Add Pin To Net: Unknown Pin: Pin X14-9
+Add Pin To Net: Unknown Pin: Pin X14-10
+Add Pin To Net: Unknown Pin: Pin X14-11
+Add Pin To Net: Unknown Pin: Pin X14-12
+Added Member To Class: ClassName=Ý3_2 Member=Component DA1 4R7
+Added Member To Class: ClassName=Ý3_2 Member=Component DA2 4R7
+Add Class Member: Failed to add class member : Component X11 Logic Conventor
+Add Class Member: Failed to add class member : Component X14 Logic Conventor

@@ -1,0 +1,19 @@
+Change Footprint: Footprint Not Found Arduino Mega Pro
+Added Component: Designator=X7(LOGIC CONVENTOR)
+Add component (AddParameter): Name = "Name"; Value = "Logic Conventor"; VariantName = "[No Variations]"
+Added Component: Designator=X8(LOGIC CONVENTOR)
+Add component (AddParameter): Name = "Name"; Value = "Logic Conventor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOSI_nRF Pin=X7-7
+Added Pin To Net: NetName=MISO_nRF Pin=X7-8
+Added Pin To Net: NetName=+3B3 Pin=X7-9
+Added Pin To Net: NetName=GND Pin=X7-10
+Added Pin To Net: NetName=SCK Pin=X7-11
+Added Pin To Net: NetName=CS_nRF_A Pin=X7-12
+Added Pin To Net: NetName=MOSI Pin=X8-1
+Added Pin To Net: NetName=MISO Pin=X8-2
+Added Pin To Net: NetName=+5B Pin=X8-3
+Added Pin To Net: NetName=GND Pin=X8-4
+Added Pin To Net: NetName=SCK Pin=X8-5
+Added Pin To Net: NetName=CS Pin=X8-6
+Added Member To Class: ClassName=Ý3_2 Member=Component X7 Logic Conventor
+Added Member To Class: ClassName=Ý3_1 Member=Component X8 Logic Conventor

@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=+3B3 Pin=X4-3
+Removed Pin From Net: NetName=GND Pin=X4-4
+Removed Pin From Net: NetName=+5B Pin=X5-3
+Removed Pin From Net: NetName=GND Pin=X5-4
+Change Component Footprint: Designator=X4 Old Footprint=CWF-4 New Footprint=CWF-5
+Change Component Footprint: Designator=X5 Old Footprint=CWF-4 New Footprint=CWF-5
+Change Component Comment : Designator=X6 Old Comment=CWF-10 New Comment=MW-10M
+Change Component Comment : Designator=X4 Old Comment=DS1069-4M (CWF-4) New Comment=DS1069-5M (CWF-5)
+Change Component Comment : Designator=X5 Old Comment=DS1069-4M (CWF-4) New Comment=DS1069-5M (CWF-5)
+Change component parameters: Designator = "X6" ("X6"); Footprint = "MW-10M"; UniqueID = "\IXKMCXPW" ("\IXKMCXPW")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "Sinnal1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "Sinnal2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_3"; Value = "Sinnal3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_4"; Value = "Sinnal4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_5"; Value = "Sinnal5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_6"; Value = "Sinnal6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_7"; Value = "Sinnal7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_8"; Value = "Sinnal8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_9"; Value = "VCC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_10"; Value = "GND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MW-10M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X4" ("X4"); Footprint = "CWF-4"; UniqueID = "\UTACSVLP" ("\UTACSVLP")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "SDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "SCL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_3"; Value = "XSHUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_4"; Value = "Contact_4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_5"; Value = "Contact_5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_6"; Value = "Contact_6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DS1069-5M (CWF-5)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X5" ("X5"); Footprint = "CWF-4"; UniqueID = "\KRZTOBXM" ("\KRZTOBXM")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "SDA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "SCL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_3"; Value = "XSHUT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_4"; Value = "Contact_4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_5"; Value = "Contact_5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_6"; Value = "Contact_6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DS1069-5M (CWF-5)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5B_Logic Pin=X4-4
+Added Pin To Net: NetName=GND Pin=X4-5
+Added Pin To Net: NetName=+5B_Logic Pin=X5-4
+Added Pin To Net: NetName=GND Pin=X5-5
+Added Pin To Net: NetName=LSesn1 Pin=X7-55
+Added Pin To Net: NetName=LSesn2 Pin=X7-56
+Added Pin To Net: NetName=LSesn3 Pin=X7-57
+Added Pin To Net: NetName=LSesn4 Pin=X7-58
+Added Pin To Net: NetName=LSesn5 Pin=X7-59
+Added Pin To Net: NetName=LSesn6 Pin=X7-60
+Added Pin To Net: NetName=LSesn7 Pin=X7-61
+Added Pin To Net: NetName=LSesn8 Pin=X7-62
+Added Pin To Net: NetName=XSHUT1 Pin=X4-3
+Added Net: Name=XSHUT1
+Added Pin To Net: NetName=XSHUT2 Pin=X5-3
+Added Net: Name=XSHUT2
