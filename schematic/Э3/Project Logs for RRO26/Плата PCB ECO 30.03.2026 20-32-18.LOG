@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=DA1-21
+Removed Pin From Net: NetName=GND Pin=DA1-22
+Removed Pin From Net: NetName=GND Pin=DA1-23
+Added Pin To Net: NetName=Voltage Pin=X7-43
+Added Member To Class: ClassName=Ý3_2 Member=Component DA3 4R7

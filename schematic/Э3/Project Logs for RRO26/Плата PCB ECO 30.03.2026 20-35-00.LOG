@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=Voltage Pin=R8-2
+Removed Pin From Net: NetName=Voltage Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=Ý3_2 Member=R8
+Removed Member From Class: ClassName=Ý3_2 Member=R9
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Added Component: Designator=R1(R0603)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC0603FR-0730KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30ê"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1206)
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "RC1206FR-07180KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10ê"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vbat Pin=R1-1
+Added Pin To Net: NetName=Voltage Pin=R1-2
+Added Pin To Net: NetName=Voltage Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR7_1
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR9_1
+Added Member To Class: ClassName=Ý3_1 Member=Component R8 1ê
+Added Member To Class: ClassName=Ý3_1 Member=Component R9 1ê

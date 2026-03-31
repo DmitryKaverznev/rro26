@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=DA1-21
+Removed Pin From Net: NetName=GND Pin=DA1-22
+Removed Pin From Net: NetName=GND Pin=DA1-23
+Change Component Designator: OldDesignator=R1 NewDesignator=R8
+Change Component Designator: OldDesignator=R2 NewDesignator=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R6
+Change Component Designator: OldDesignator=R9 NewDesignator=R7
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR7_1
+Added Member To Class: ClassName=Ý3_1 Member=Component DA1 L298
