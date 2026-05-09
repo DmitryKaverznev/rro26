@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MotIn4B Pin=X8-11
+Removed Pin From Net: NetName=MotIn2B Pin=X8-13
+Removed Pin From Net: NetName=MotIn3B Pin=X8-15
+Added Pin To Net: NetName=MotIn4B Pin=X8-10
+Added Pin To Net: NetName=MotIn2B Pin=X8-12
+Added Pin To Net: NetName=MotIn3B Pin=X8-14

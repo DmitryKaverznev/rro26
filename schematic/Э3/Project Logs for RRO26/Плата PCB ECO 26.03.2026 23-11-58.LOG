@@ -1,4 +1,0 @@
-Added Component: Designator=DD1(Seeed Studio XIAO nRF52840)
-Add component (AddParameter): Name = "HelpURL"; Value = "https://files.amperka.ru/datasheets/ATMega32u4.pdf"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Name"; Value = "ATmega32u4"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=Ý3 Member=Component DD1 ATmega32u4

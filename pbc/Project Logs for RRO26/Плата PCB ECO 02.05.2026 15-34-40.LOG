@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDA_Soft Pin=X8-29
+Removed Pin From Net: NetName=SCL_Soft Pin=X8-30
+Added Pin To Net: NetName=SCL_Soft Pin=X8-29
+Added Pin To Net: NetName=SDA_Soft Pin=X8-30

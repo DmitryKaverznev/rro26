@@ -1,7 +1,0 @@
-Added Component: Designator=X2(MW-3M)
-Add component (AddParameter): Name = "Contact_1"; Value = "Contact_1"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Contact_2"; Value = "Contact_2"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Contact_3"; Value = "Contact_3"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Name"; Value = "DS1066-03M (MW-3M)"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetX1_37 Pin=X2-1
-Added Member To Class: ClassName=Ý3 Member=Component X2 DS1066-03M (MW-3M)

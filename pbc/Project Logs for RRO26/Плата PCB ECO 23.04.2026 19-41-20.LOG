@@ -1,0 +1,5 @@
+Change Component Comment : Designator=X16 Old Comment=DS1066-02M (MW-2M) New Comment=DS1069-2M (CWF-2)
+Change component parameters: Designator = "X16" ("X16"); Footprint = "CWF-2"; UniqueID = "\MOZZUQEW" ("\MOZZUQEW")
+Change component parameters (AddParameter): Name = "Contact_1"; Value = "BTN1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_2"; Value = "BTN2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "DS1069-2M (CWF-2)"; VariantName = "[No Variations]"

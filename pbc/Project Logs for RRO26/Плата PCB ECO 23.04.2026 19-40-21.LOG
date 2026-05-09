@@ -1,0 +1,7 @@
+Added Component: Designator=X16(MW-2M)
+Add component (AddParameter): Name = "Contact_1"; Value = "Button1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_2"; Value = "Button2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "DS1069-2M (CWF-2)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDA3_5 Pin=X16-1
+Added Pin To Net: NetName=NetDA3_4 Pin=X16-2
+Added Member To Class: ClassName=Ý3_2 Member=Component X16 DS1066-02M (MW-2M)
