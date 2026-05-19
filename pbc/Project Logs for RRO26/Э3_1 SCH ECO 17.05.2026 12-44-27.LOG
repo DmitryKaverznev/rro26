@@ -1,0 +1,3 @@
+Remove Pin=X8D-45 From Net=Voltage
+Add Pin To Net: Pin=X8C-41 Old Net=NetX8_41 New Net=MotIn3A
+Change Pin Designator/Name:  Old Designator=X8C-41 Old Name=41 New Designator =45 New Name=45

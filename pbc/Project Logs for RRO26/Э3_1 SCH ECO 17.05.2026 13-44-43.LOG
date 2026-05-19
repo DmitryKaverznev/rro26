@@ -1,0 +1,4 @@
+Remove Pin=X8A-14 From Net=MotEn1B
+Add Pin To Net: Pin=X8A-15 Old Net=NetX8_15 New Net=MotIn2B
+Add Pin To Net: Pin=X8B-18 Old Net=NetX8_18 New Net=MotIn1B
+Change Pin Designator/Name:  Old Designator=X8A-15 Old Name=15 New Designator =14 New Name=14

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MotIn3A Pin=X8-41
+Added Pin To Net: NetName=MotIn3A Pin=X8-45
+Added Member To Class: ClassName=Ý3_2 Member=Component DA1 L298

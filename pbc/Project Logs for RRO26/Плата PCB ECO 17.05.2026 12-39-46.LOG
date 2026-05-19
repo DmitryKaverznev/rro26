@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=+5B New Net Name=Vs
+Change Net Name : Old Net Name=+5B_Logic New Net Name=+5B
+Change Net Name : Old Net Name=NetDA3_1 New Net Name=+3S
+Change Net Name : Old Net Name=Vbat New Net Name=Vcc
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7

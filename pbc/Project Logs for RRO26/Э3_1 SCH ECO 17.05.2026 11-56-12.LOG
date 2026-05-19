@@ -1,0 +1,4 @@
+Remove Pin=X8C-45 From Net=ServoA
+Remove Pin=X8C-46 From Net=ServoB
+Add Pin To Net: Pin=X8D-52 Old Net=NetX8_52 New Net=Voltage
+Change Pin Designator/Name:  Old Designator=X8D-52 Old Name=52 New Designator =45 New Name=45

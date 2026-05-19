@@ -1,0 +1,3 @@
+Add Pin To Net: Pin=X8D-66 Old Net=NetX8_66 New Net=MotIn1A
+Add Pin To Net: Pin=X8D-67 Old Net=NetX8_67 New Net=ENC2B
+Add Pin To Net: Pin=X8D-68 Old Net=NetX8_68 New Net=MotIn2A

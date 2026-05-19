@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=ENC2B Pin=X8-3
+Added Pin To Net: NetName=ENC2A Pin=X8-3
