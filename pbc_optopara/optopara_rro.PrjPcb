@@ -83,8 +83,49 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BDMAYRSP
 
+[Document3]
+DocumentPath=Job_resonit.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for optopara_rro\Design Rule Check - optopara_rro.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for optopara_rro\NC Drill\optopara_rro.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for optopara_rro\Gerber\optopara_rro.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for optopara_rro\NC Drill\optopara_rro.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for optopara_rro\Gerber\optopara_rro.REP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for optopara_rro\ExportSTEP\optopara_rro.step
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for optopara_rro\NC Drill\optopara_rro.TXT
 DItemRevisionGUID=
 
 [Configuration1]
